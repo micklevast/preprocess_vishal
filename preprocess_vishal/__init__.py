@@ -1,6 +1,6 @@
-from preprocess_kgptalkie import utils
+from preprocess_vishal import utils
 
-__version__='0.0.1'
+__version__='0.0.2'
 
 # this is final fule
 # user import and call my method from here only

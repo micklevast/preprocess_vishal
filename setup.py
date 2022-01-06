@@ -4,7 +4,7 @@ with open('README.md','r') as file:
 
 setuptools.setup(
     name='preprocess_kgptalkie',#this should be unique
-     version='0.0.1',
+     version='0.0.2',
      author='vishal chauhan',
      author_email='indvis2000@gmail.com',
      description='this is preprocessing package',
@@ -14,7 +14,7 @@ setuptools.setup(
      classifiers=[
          'Progamming_Language::Python::3',
          'License::OSI Aproved::MIT License',
-         'Operating System::OS Independent'
-     ]
+         'Operating System::OS Independent'],
      python_requires='>=3.5'
 )
+     
